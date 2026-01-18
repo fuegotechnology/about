@@ -1,8 +1,8 @@
-# About
+## About
 About Fuego Technology:
-Fuego Technology is a technology company. We believe in the power of open-source technology and client side HTML. We plan to create client side technologies that are similar to that of Microsoft and google.
+At Fuego, we are dedicated to creating an open-source tech empire. We believe in the power of open-source technology and client side HTML. We plan to create client side technologies that are similar to that of Microsoft and Google.
 
-# Projects we hope to do.
+## Projects we hope to do.
 We are a group of 2 people trying to push client-side technologies to it's limits. Here are some projects that we are working on. 
 1. Google Docs/ Microsoft Word Alternate (We'll call it Fuego Mark)
 2. Google Slides/ Microsoft PowerPoint Alternate (Fuego Present)
